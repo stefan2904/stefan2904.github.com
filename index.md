@@ -10,6 +10,4 @@ title: Home
   {% endfor %}
 </ul>
 
-<span class="engine">
-Zuletzt aktuallisiert am {{ 'now' | date: "%d. %m. %Y" }} um {{ 'now' | date: "%H:%M" }} Uhr.
-</span>
+<small>Zuletzt aktualisiert am {{ 'now' | date: "%d. %m. %Y" }}.</small>
