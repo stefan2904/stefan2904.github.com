@@ -5,4 +5,4 @@ tags : [intern]
 
 ## What is this?
 
-My new Blog. Hosted on <a href="http://pages.github.com">GitHub Pages</a>! \o/
+My new Blog. Hosted on [GitHub Pages](http://pages.github.com)! \o/
