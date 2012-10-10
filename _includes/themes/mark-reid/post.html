@@ -8,13 +8,14 @@
   <address class="signature">
     <a class="posthistory" href="https://github.com/stefan2904/stefan2904.github.com/commits/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | downcase | replace:' ','-' }}.md">Artikel-History</a>
     <span class="date">{{ page.date | date: "%d.%m.%Y" }}</span>
-  </address>
 
   <ul class="tag_box inline">
-  {% assign tags_list = page.tags %}
-  {% include JB/tags_list %}
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
   </ul>
-  
+
+  </address>
+
   <div class="prev-next">
   {% if page.next %}
     <a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">&rarr;</a>
