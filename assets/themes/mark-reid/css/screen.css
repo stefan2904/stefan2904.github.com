@@ -11,7 +11,7 @@
  * a consistent vertical rhythm.
  *	
  * Base font height: 16px (--> 20px)
- * Base line length: 24px
+ * Base line length: 24px (--> 1.6)
  * 
  * AUTHOR: Mark Reid <mark@reid.name>
  */
@@ -22,6 +22,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 
 body {
 	font-family: 'Merriweather', Palatino, georgia, "times new roman", serif;
+	font-weight: 400;
 	background-color: whitesmoke;
 	background-position: center -18em;
 	background-repeat: repeat-x; 
@@ -31,7 +32,7 @@ body {
 img { -ms-interpolation-mode:bicubic; }
 
 /* IE6 ignores this and uses default size of 16pt */
-html>body { font-size:20px; }
+html>body { font-size:22px; }
 p { margin: 0 0 1.5em 0; text-align: justify; }
 
 a { text-decoration: none; color: #339; }
@@ -45,12 +46,12 @@ h1,h2,h3,h4 {
 	font-size:1.5em; 
 	font-weight: normal; 
 	clear: left; 	
-	font-family: 'lucida grande', sans-serif; 
+	font-family: 'Merriweather', Palatino, georgia, "times new roman", serif;
 }
 h1 { margin-bottom: 1em; }
 h2 {
 	font-size: 100%;
-	line-height: 1.5em;
+	line-height: 1.6em;
 	margin:1.5em 0 1.5em 0;
 	font-weight:bold;
 }
@@ -65,7 +66,7 @@ hr {
 sup { line-height: 1ex; }
 
 #site {
-	max-width: 46em;
+	max-width: 40em;
 	margin: 1.5em auto 3em auto;
 	line-height:1.5em;
 }
