@@ -17,7 +17,8 @@ author :
   email : spam@2904.cc
   github : stefan2904
   twitter : stefan2904
-  feedburner : feedname
+  feed : http://blog.2904.cc/atom.xml
+ # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
