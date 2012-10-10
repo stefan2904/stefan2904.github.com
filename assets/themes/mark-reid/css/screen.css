@@ -531,6 +531,9 @@ img.maruku-png { }
 	margin:0;
 	padding:5px 0 ;
 	overflow:hidden;
+	position: absolute;
+	right: 0;
+	top: 0;
 }
 .tag_box li {
 	list-style:none;
