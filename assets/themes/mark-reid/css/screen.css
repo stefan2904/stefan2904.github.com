@@ -104,12 +104,15 @@ sup { line-height: 1ex; }
 	margin:  0.05em 0 -0.15em 0;
 	line-height: 1em;
 	float: left;
+	font-variant: small-caps;
 }
 
+/*
 .emphnext + p:first-line, p.emphfirst:first-line {
 	font-variant: small-caps;
 	font-size: larger;
-}
+}*/
+
 /* @end */
 
 .right { float: right; clear: left; }

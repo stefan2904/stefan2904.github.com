@@ -7,6 +7,7 @@ published: 	true
 liberté & égalité
 
 Freiheit, Gleichheit, Brüderlichkeit.
+
 Was ist davon eigentlich übrig geblieben?
 
 Frei sind auch heute nur manche von uns, doch selbst die sind es wohl nicht wirklich immer. Freiheit ist ein inflationär gebrauchtes Wort. Jeder und jede soll alles sagen dürfen. Doch gibt es Grenzen? Die Freiheit des einen hört da auf, wo die Freiheit der anderen beginnt, heißt es immer. Selbst abseits davon gibt es Tabus, Dogmen und Grenzen. Die einen durch die Gesellschaft, die anderen nur in unseren Köpfen. Abgesehen von der Frage, ob man alles tun darf, was man will, bleibt noch die Frage, ob man denn überhaupt alles will, was man will? Gibt es einen freien Willen? Manipulation ist allgegenwärtig, und sei es nur in der Werbung. Jede lebt in ihrer eigenen Realität, jeder hat eine andere Wahrheit. Ab und zu gibt's halt kognitive Dissonanz, aber da hilft die Fantasie.
