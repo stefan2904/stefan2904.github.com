@@ -1,7 +1,7 @@
 ---
-layout: post
-category : lessons
-tags : [jekyll]
+layout:   post
+tags:     [intern]
+published:  false
 ---
 {% include JB/setup %}
 
