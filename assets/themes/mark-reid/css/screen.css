@@ -315,11 +315,17 @@ p.excerpt { margin: 0; }
 	font-style: normal; 
 	color: black;
 	display: block;
-	margin-bottom: 1.5em;
+	margin-bottom: 0em;
+}
+.signature .posthistory { 
+	font-variant: small-caps; 
+	font-style: normal; 
+	display: block;
+	margin-bottom: 0em;
 }
 .signature .date { 
 	font-size: 87.5%;
-	line-height: 1.5em;
+	line-height: 1em;
 	display: block; 
 	font-variant: small-caps; 
 	font-style: normal; 
