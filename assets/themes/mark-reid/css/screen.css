@@ -329,6 +329,7 @@ p.excerpt { margin: 0; }
 .signature .date { 
 	font-size: 87.5%;
 	line-height: 1em;
+	padding-bottom: 1em;
 	display: block; 
 	font-variant: small-caps; 
 	font-style: normal; 
