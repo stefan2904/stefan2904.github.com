@@ -4,6 +4,8 @@ tags: 		[Philosophie]
 published: 	true
 ---
 
+liberté & égalité
+
 Freiheit, Gleichheit, Brüderlichkeit.
 Was ist davon eigentlich übrig geblieben?
 
