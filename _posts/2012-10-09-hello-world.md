@@ -1,14 +1,8 @@
 ---
 layout: post
-category : lessons
-tags : [intro, beginner, jekyll, tutorial]
+tags : [intern]
 ---
 
+## What is this?
 
-## Hello world! 
-
-### What is this?
-
-I don't know yet! :p
-
-But I can change it from the Web! \o/
+My new Blog. Hosted on <a href="http://pages.github.com">GitHub Pages</a>! \o/
