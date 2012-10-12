@@ -9,5 +9,6 @@ title: Home
     <li><span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-<small>[Zuletzt aktualisiert am {{ 'now' | date: "%d.%m.%Y" }}](https://github.com/stefan2904/stefan2904.github.com/commits/master)</small>
+<a href="https://github.com/stefan2904/stefan2904.github.com/commits/master">
+	<small>Zuletzt aktualisiert am {{ 'now' | date: "%d.%m.%Y" }}</small>
+</a>
