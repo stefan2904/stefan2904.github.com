@@ -10,4 +10,4 @@ title: Home
   {% endfor %}
 </ul>
 
-<small>Zuletzt aktualisiert am {{ 'now' | date: "%d.%m.%Y" }}.</small>
+<small>[Zuletzt aktualisiert am {{ 'now' | date: "%d.%m.%Y" }}](https://github.com/stefan2904/stefan2904.github.com/commits/master)</small>
