@@ -5,7 +5,6 @@ published: 	true
 ---
 
 ## Mensch stelle sich vor..
-
 ..Alex schreibt Geschichten.
 
  Er hat Spass daran, macht das aber eher nebenbei. Alex wird bald mit dem Studium fertig und hofft, eines Tages einen Verlag für seine Geschichten zu finden. Doch das ist nicht so leicht für einen jungen Autor wie Alex. Heutzutage glauben schließlich viele Menschen schreiben zu können. Einige davon schaffen es auch, einen Verlag zu finden. Obwohl das die wenigsten schaffen, wird der "Markt" mit Büchern unterschiedlichster Qualität überschwemmt. Mensch muss nur seine Nische finden.. Diese Nische hat Alex schon länger gefunden. Regelmäßig lesen einige hundert Menschen die Geschichten, die er auf deiner Webseite veröffentlicht. Täglich werden es mehr. Und je öfter Alex schreibt, desto bekannter werden seine Geschichten. 
@@ -41,7 +40,8 @@ Mensch stelle sich vor, das geht gar nicht.
 Willkommen im 21. Jahrhundert!
 
 ## Der Grundgedanke des Internets..
-
 ..ist die freie, unzensierte und gleichberechtigte Kommunikation.
+
 Netzneutralität garantiert die Freiheit des Internets, Innovationskraft, Meinungsfreiheit und Chancengleichheit.
-[Für die gesetzliche Verankerung der Netzneutralität in Österreich](https://unsernetz.at/)
+
+[**Für die gesetzliche Verankerung der Netzneutralität in Österreich**](https://unsernetz.at/)
