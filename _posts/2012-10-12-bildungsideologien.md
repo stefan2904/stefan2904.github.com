@@ -1,6 +1,6 @@
 ---
 layout: 	post
-tags: 		[Bildung]
+tags: 		[Gesellschaft]
 published: 	false
 ---
 
