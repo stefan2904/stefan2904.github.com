@@ -39,9 +39,10 @@ Mensch stelle sich vor, das geht gar nicht.
 
 Willkommen im 21. Jahrhundert!
 
+
 ## Der Grundgedanke des Internets..
 ..ist die freie, unzensierte und gleichberechtigte Kommunikation.
 
 Netzneutralität garantiert die Freiheit des Internets, Innovationskraft, Meinungsfreiheit und Chancengleichheit.
 
-[**Für die gesetzliche Verankerung der Netzneutralität in Österreich**](https://unsernetz.at/)
+[**Für die gesetzliche Verankerung der Netzneutralität in Österreich!**](https://unsernetz.at/)
