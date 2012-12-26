@@ -7,9 +7,9 @@ title: Home
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-    	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo;  [{{ post.category }}]  
-		{% if post.category %}
-			[{{ post.category }}] 
+    	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; 
+		{% if post.tagline %}
+			[{{ post.tagline }}] 
 		{% endif %}
 		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
