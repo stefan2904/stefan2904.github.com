@@ -8,8 +8,8 @@ title: Home
   {% for post in site.posts %}
     <li>
     	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; 
-		{% if post.prefix %}
-			[{{ post.prefix }}] 
+		{% if post.page.prefix %}
+			[{{ post.page.prefix }}] 
 		{% endif %}
 		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
