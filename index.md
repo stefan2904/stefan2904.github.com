@@ -6,7 +6,7 @@ title: Home
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo;   {% if post.category %}[{{ post.category }}] {% endif %}<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 <a href="https://github.com/stefan2904/stefan2904.github.com/commits/master">
