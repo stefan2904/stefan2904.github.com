@@ -7,9 +7,9 @@ title: Home
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-    	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; {{ post.page.prefix }}
+    	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo;
 		{% if post.categories | size > 1 %}
-			[{{ post.categories | last }}]  {% post.categories | size %}
+			[{{ post.categories | last }}]  { post.categories | size }
 		{% endif %}
 		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
