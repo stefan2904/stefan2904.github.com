@@ -9,7 +9,7 @@ title: Home
     <li>
     	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; {{ post.page.prefix }}
 		{% if post.categories %}
-			[{{ post.categories[0] }}] 
+			[{{ post.categories[1] }}] 
 		{% endif %}
 		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
