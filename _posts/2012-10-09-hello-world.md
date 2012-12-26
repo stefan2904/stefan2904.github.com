@@ -29,7 +29,7 @@ Die Schriftgröße ist aus [bestimmten Gründen](http://twitter.com/stefan2904/s
 
 ## Diskussion bitte!
 
-Da der Output von Jekyll natürlich statische HTML-Seiten sind, gibt's keine Möglichkeit, direkt eine Kommentar-Funktion einzubauen. Hier kommen "Blog-Kommentar Services" in's Spiel: Zuerst hab' ich [Disqus](http://disqus.com/) installiert. Das blieb aber nicht lange, da es mir nicht gelang, das Kommentieren für nicht-registrierte User zu aktivieren. Deshalb findet sich jetzt unter jedem Post ein Kommentar-Bereich, zur Verfügung gestellt von [IntenseDebate](http://intensedebate.com/). Mal schau'n, wie sich das bewährt.
+Da der Output von Jekyll natürlich statische HTML-Seiten sind, gibt's keine Möglichkeit, direkt eine Kommentar-Funktion einzubauen. Hier kommen "Blog-Kommentar Services" ins Spiel: Zuerst hab' ich [Disqus](http://disqus.com/) installiert. Das blieb aber nicht lange, da es mir nicht gelang, das Kommentieren für nicht-registrierte User zu aktivieren. Deshalb findet sich jetzt unter jedem Post ein Kommentar-Bereich, zur Verfügung gestellt von [IntenseDebate](http://intensedebate.com/). Mal schau'n, wie sich das bewährt.
 
 ## Versionierung
 
