@@ -1,7 +1,7 @@
 ---
 layout: 	post
+title: 		Wer nichts weiß, muss alles glauben
 tags: 		[Philosophie]
-title:		Wer nichts weiß, muss alles glauben
 published: 	true
 ---
 
