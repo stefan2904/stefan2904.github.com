@@ -70,9 +70,9 @@ Am Montag und im Laufe der Woche gab es mehrere Mails und Tweets, die sugerierte
 
 Wir, und auch ich als Teil des Orga Teams, hätten die Täter spätestens am Samstag Abend, wenn nicht sogar schon Samstag Mittag, mit ihren Taten konfrontieren müssen. Im Nachhinein betrachtet hätte das vielleicht bei manchen nichts genützt, hier wäre dann der Rauswurf ein meiner Meinung nach angebrachtes Mittel gewesen. 
 
-Auch die (mehr oder weniger zufällige) "Aussprache" mit einer der beteiligten Personen am Ende der Party am Samstag war alles andere als optimal (und hat nichts gebracht). Es war wohl außerdem ein Fehler meinerseits, die Person in Anwesenheit einer betroffenen Person anzusprechen. 
-
 > "Über die Grenzen einer Person haben Dritte nicht zu diskutieren. Punkt." - *@Lotterleben*
+
+Auch die (mehr oder weniger zufällige) "Aussprache" mit einer der beteiligten Personen am Ende der Party am Samstag war alles andere als optimal (und hat nichts gebracht). Es war wohl außerdem ein Fehler meinerseits, die Person in Anwesenheit einer betroffenen Person anzusprechen. 
 
 ![Keine Einsicht](http://2904.cc/blogimg/bcg13/unbeliebt.jpg)
 
