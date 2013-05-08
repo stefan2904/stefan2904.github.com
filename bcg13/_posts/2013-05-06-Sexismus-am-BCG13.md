@@ -88,7 +88,7 @@ Ein weiterer Aspekt, den wir diskutieren müssen, ist der Sexismus im virtuellen
 
 <!-- ![Keine Einsicht](http://2904.cc/blogimg/bcg13/einsicht.jpg) -->
 
-### Update, 7. Mai:
+## *Update, 7. Mai:*
 
 Wir haben am Orga-Meeting heute ziemlich lange und teilweise emotional über das Thema geredet. Teilweise war es bisher einzelnen Orga-Mitgliedern noch nicht klar, was genau vorgefallen war. Es gibt im Orga-Team einen Konsens, dass ein solches Verhalten am BarCamp Graz nicht erwüscht ist. Als konkrete Reaktion auf die nicht mehr ungeschehen zu machenden Ereignisse am BarCamp halten wir es für wichtig, das noch einmal konkret zu kommunizieren, und werden das auch in den nächsten Tagen tun.
 
