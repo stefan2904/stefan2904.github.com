@@ -5,7 +5,7 @@ tags: 		[Gesellschaft, bcg13]
 published: 	true
 ---
 
-<font color="red"><strong>Dieser Artikel ist noch work in progress und in keinster Weise fertig!!</strong></font>
+<font color="red"><strong>Dieser Artikel ist noch work in progress.</strong></font>
 
 
 *Disclaimer: Ich bin Teil des Orga-Teams des BarCamp Graz, schreibe hier jedoch nicht für dieses.*
@@ -30,11 +30,11 @@ Außerdem gab es als Antwort an die Teilnehmerin ein weiteres Foto mit einer [Cr
 
 Obwohl, oder gerade weil, es Aktionen dieser Art (nicht nur) im Internet zwar regelmäßig gibt, sorgten diese bei einigen Anwesenden für unwohlbehagen. Nicht zuletzt, weil uns bewusst war, dass diese Personen nicht irgendwo anders auf der Welt sitzen, sondern im selben Gebäude oder gar im selben Raum. 
 
-Einen offiziellen Orga-Tweet und ein paar geblockte Accounts später stellte sich die Vermutung leider als richtig heraus. Eine Grenze wurde für mich mit diesem Tweet überschritten, bei dem man schon von [Objektifizierung](http://feminismus101.de/sexuelle-objektifizierung) reden kann.
+Einen offiziellen Orga-Tweet und ein paar geblockte Accounts später stellte sich die Vermutung leider als richtig heraus. Eine Grenze wurde für mich mit diesem Tweet überschritten.<!--, bei dem man schon von [Objektifizierung](http://feminismus101.de/sexuelle-objektifizierung) reden kann.-->
 
 ![Objektifizierung](http://2904.cc/blogimg/bcg13/persoenlich.jpg)
 
-Außerdem hielt es jemand für kurze Zeit für nötig, den #bcg13-Hashtag zu spammen.
+Außerdem hielt es jemand für kurze Zeit für nötig, den #bcg13-Hashtag zu spammen. Darauf wurde reagiert, indem die Twitter-Wall im Hauptraum für kurze Zeit abgeschalten wurde ("den Trollen keine Plattform bieten").
 
 ![Spam](http://2904.cc/blogimg/bcg13/twitterspam.jpg)
 
@@ -76,7 +76,7 @@ Auch die (mehr oder weniger zufällige) "Aussprache" mit einer der beteiligten P
 
 ![Keine Einsicht](http://2904.cc/blogimg/bcg13/unbeliebt.jpg)
 
-# Und was jetzt?
+## Und was jetzt?
 
 Das heurige BarCamp betreffend können wir nichts mehr ungeschehen machen. Wir können jedoch diese und ähnliche Taten sichtbar machen. Ich halte es außerdem für wichtig, sowas nicht kleinzureden. 
 
@@ -87,5 +87,15 @@ Solche zukünftige Veranstaltungen betreffenden Dinge müssen wir jedoch auch ak
 Ein weiterer Aspekt, den wir diskutieren müssen, ist der Sexismus im virtuellen Raum. Das wird natürlich bereits an vielen Orten getan. Ich habe an diesem Wochenende (und auch am 29c3 im Dezember) auf direkte Art zu spüren gekommen, was es für ein Gefühl ist, wenn einem über die "Meta-Ebene Internet" solche Angriffe wiederfahren, und man außer dem Blocken des betreffenden Accounts nichts tun kann, da man oft nicht weiß, welche Person dahinter steckt. Das war am BarCamp bei den Tweets am Sonntag der Fall, da wir hier teilweise keine Ahnung haben, von wem diese stammen. Das ist unangenehm, wenn diese Tweets "von Weitem" kommen, aber erst recht, wenn man dazu das Bewusstsein bekommt, dass diese Leute gerade auch auf der selben Veranstaltung sind. Wie man damit umgeht weiß ich derzeit leider auch nicht so wirklich.
 
 <!-- ![Keine Einsicht](http://2904.cc/blogimg/bcg13/einsicht.jpg) -->
+
+### Update, 7. Mai:
+
+Wir haben am Orga-Meeting heute ziemlich lange und teilweise emotional über das Thema geredet. Teilweise war es bisher einzelnen Orga-Mitgliedern noch nicht klar, was genau vorgefallen war. Es gibt im Orga-Team einen Konsens, dass ein solches Verhalten am BarCamp Graz nicht erwüscht ist. Als konkrete Reaktion auf die nicht mehr ungeschehen zu machenden Ereignisse am BarCamp halten wir es für wichtig, das noch einmal konkret zu kommunizieren, und werden das auch in den nächsten Tagen tun.
+
+Als weitere Konsequenz aus dem heurigen BarCamp wird das BarCamp Graz eine Anti-Harassment Policy bekommen, um mit solchen Vorfällen in Zukunft besser umgehen zu können und nocheinmal deutlich zu machen, dass Sexismus in jeglicher Form nicht erwünscht ist. Außerdem werden wir in der Planung des nächsten BarCamp diskutieren, wie wir diese Policy konkret umsetzen können. Damit auf Worte auf Taten folgen.
+
+
+
+
 
 
