@@ -90,9 +90,9 @@ Ein weiterer Aspekt, den wir diskutieren müssen, ist der Sexismus im virtuellen
 
 ## *Update, 7. Mai:*
 
-Wir haben am Orga-Meeting heute ziemlich lange und teilweise emotional über das Thema geredet. Teilweise war es bisher einzelnen Orga-Mitgliedern noch nicht klar, was genau vorgefallen war. Es gibt im Orga-Team einen Konsens, dass ein solches Verhalten am BarCamp Graz nicht erwüscht ist. Als konkrete Reaktion auf die nicht mehr ungeschehen zu machenden Ereignisse am BarCamp halten wir es für wichtig, das noch einmal konkret zu kommunizieren, und werden das auch in den nächsten Tagen tun.
+Wir haben am Orga-Meeting heute ziemlich lange und teilweise emotional über das Thema geredet. Teilweise war es bisher einzelnen Orga-Mitgliedern noch nicht klar, was genau vorgefallen ist. Es gibt im Orga-Team einen Konsens, dass ein solches Verhalten am BarCamp Graz nicht erwünscht ist. Als konkrete Reaktion auf die nicht mehr ungeschehen zu machenden Ereignisse am BarCamp halten wir es für wichtig, das noch einmal konkret zu kommunizieren, und werden dies auch in den nächsten Tagen tun.
 
-Als weitere Konsequenz aus dem heurigen BarCamp wird das BarCamp Graz eine Anti-Harassment Policy bekommen, um mit solchen Vorfällen in Zukunft besser umgehen zu können und nocheinmal deutlich zu machen, dass Sexismus in jeglicher Form nicht erwünscht ist. Außerdem werden wir in der Planung des nächsten BarCamp diskutieren, wie wir diese Policy konkret umsetzen können. Damit auf Worte auf Taten folgen.
+Als weitere Konsequenz aus dem heurigen BarCamp wird das BarCamp Graz eine Anti-Harassment Policy bekommen, um mit solchen Vorfällen in Zukunft besser umgehen zu können und nocheinmal deutlich zu machen, dass Sexismus in jeglicher Form nicht erwünscht ist. Außerdem werden wir in der Planung des nächsten BarCamp diskutieren, wie wir diese Policy konkret umsetzen können. Damit auf Worte auch Taten folgen.
 
 
 
