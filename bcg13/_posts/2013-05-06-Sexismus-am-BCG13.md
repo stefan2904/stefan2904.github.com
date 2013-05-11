@@ -94,4 +94,13 @@ Wir haben am Orga-Meeting heute ziemlich lange und teilweise emotional über das
 
 Als weitere Konsequenz aus dem heurigen BarCamp wird das BarCamp Graz eine Anti-Harassment Policy bekommen, um mit solchen Vorfällen in Zukunft besser umgehen zu können und noch einmal deutlich zu machen, dass Sexismus in jeglicher Form nicht erwünscht ist. Außerdem werden wir in der Planung des nächsten BarCamp diskutieren, wie wir diese Policy konkret umsetzen können. Damit auf Worte auch Taten folgen.
 
+## *Update, 11. Mai:*
+
+Mahriah hat [darüber gebloggt](http://mahriah.org/?p=37).
+
+
+
+
+
+
 
