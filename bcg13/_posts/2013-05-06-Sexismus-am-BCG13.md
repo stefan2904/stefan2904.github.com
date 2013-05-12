@@ -96,9 +96,11 @@ Als weitere Konsequenz aus dem heurigen BarCamp wird das BarCamp Graz eine Anti-
 
 ## *Update, 11. Mai:*
 
-Mahriah hat [darüber gebloggt](http://mahriah.org/?p=37).
+Mahriah hat [darüber gebloggt](http://mahriah.org/?p=37) und das Wochenende aus ihrer Sicht dokumentiert. (Danke!)
 
+## *Update, 12. Mai:*
 
+Max hat [kurz klargestellt](http://timelesscellardoor.wordpress.com/2013/05/12/sexismus-am-barcampgraz2013/), wie es zum Missverständnis mit der vermeintlichen Klärung gekommen ist. 
 
 
 
