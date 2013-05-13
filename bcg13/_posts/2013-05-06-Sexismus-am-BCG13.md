@@ -5,8 +5,9 @@ tags: 		[Gesellschaft, bcg13]
 published: 	true
 ---
 
+<!--
 <font color="red"><strong>Dieser Artikel ist noch work in progress.</strong></font>
-
+-->
 
 *Disclaimer: Ich bin Teil des Orga-Teams des BarCamp Graz, schreibe hier jedoch nicht für dieses.*
 
@@ -100,8 +101,11 @@ Mahriah hat [darüber gebloggt](http://mahriah.org/?p=37) und das Wochenende aus
 
 ## *Update, 12. Mai:*
 
-Max hat [kurz klargestellt](http://timelesscellardoor.wordpress.com/2013/05/12/sexismus-am-barcampgraz2013/), wie es zum Missverständnis mit der vermeintlichen Klärung gekommen ist. 
+Max hat [kurz klargestellt](http://timelesscellardoor.wordpress.com/2013/05/12/sexismus-am-barcampgraz2013/), wie es zum Missverständnis mit der vermeintlichen Klärung gekommen ist. Außerdem ist unser [Statement am BarCamp Blog](http://barcamp-graz.at/2013/05/sexismus-am-barcamp-graz-2013/) endlich online.
 
+## *Update, 13. Mai:*
+
+Marc, ebenfalls Teil des Orga-Teams, hat das Wochenende nochmal aus seiner Sicht [im Detail geschildert](http://murdeltas.wordpress.com/2013/05/12/barcamp-graz-2013-ruckblick-2/).
 
 
 
