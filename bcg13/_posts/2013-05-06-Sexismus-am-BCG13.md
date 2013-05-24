@@ -107,7 +107,7 @@ Max hat [kurz klargestellt](http://timelesscellardoor.wordpress.com/2013/05/12/s
 
 Marc, ebenfalls Teil des Orga-Teams, hat das Wochenende nochmal aus seiner Sicht [im Detail geschildert](http://murdeltas.wordpress.com/2013/05/12/barcamp-graz-2013-ruckblick-2/).
 
-## Update, 21. Mai:
+## *Update, 21. Mai:*
 
 Ich habe mir [ein paar Gedanken zu Verantwortung in hierarchiefreien Räumen](http://blog.2904.cc/2013/05/21/Verantwortung-in-Freiraeumen/), vor allem auf BarCamps, gemacht. 
 
