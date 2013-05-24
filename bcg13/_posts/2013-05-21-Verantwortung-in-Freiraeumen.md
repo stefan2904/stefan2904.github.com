@@ -33,7 +33,7 @@ Natürlich kann man jetzt auch behaupten, dass wir in einer emanzipierten Gesell
 
 ## *Update: Buchempfehlung*
 
-Christian Stegbauer: *Wikipedia. Das Rätsel der Kooperation*. VS Verlag für Sozialwissenschaften, Wiesbaden 2009. 321 S., br., 29,90 €. 
-thx, [@krrrhx](https://twitter.com/krrrhx)
+Christian Stegbauer: *Wikipedia. Das Rätsel der Kooperation* // VS Verlag für Sozialwissenschaften, Wiesbaden 2009 // 321 S. // 29,90 € 
+(thx, [@krrrhx](https://twitter.com/krrrhx))
 
 
