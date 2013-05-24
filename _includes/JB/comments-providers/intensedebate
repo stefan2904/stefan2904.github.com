@@ -4,5 +4,7 @@ var idcomments_post_id = '{{ page.id }}';
 var idcomments_post_url = '{{ site.production_url }}{{ page.url }}';
 var idcomments_post_title = '{{ page.title }}';
 </script>
+<noscript>Um die Kommentar-Funktion nutzen zu k&uuml;nnen, muss JavaScript aktiviert sein..</noscript>
+
 <span id="IDCommentsPostTitle" style="display:none"></span>
 <script type='text/javascript' src='http://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
