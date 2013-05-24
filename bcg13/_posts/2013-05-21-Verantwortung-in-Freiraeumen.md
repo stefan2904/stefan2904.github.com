@@ -30,5 +30,8 @@ Der erste, und vermutlich wichtigste, wenn auch für manche nicht leichte, Schri
 
 Natürlich kann man jetzt auch behaupten, dass wir in einer emanzipierten Gesellschaft leben, und dass die BarCamp Community aus einem noch emanzipierteren Teil dieser Gesellschaft besteht. Abgesehen davon, dass man auch darüber diskutieren kann, muss es natürlich nicht dem Orga-Team alleine überlassen bleiben, Missstände anzusprechen und aufzuzeigen. Natürlich glaube auch ich daran, dass wir prinzipiell in der Lage sind, mit solchen Problemen auch ohne "Eingriff von oben" umzugehen. Das ist jedoch nicht die Norm, da wir (manche mehr, manche weniger) eine solche Autorität bis zu einem bestimmten grad gewöhnt sind, und es nicht selbstverständlich scheint, auch mal aufzustehen, wenn man nicht im Orga-Team ist. Das funktioniert jedoch nicht, wenn die Gesamtheit der TeilnehmerInnen sich dessen nicht bewusst ist, was man wiederum teilweise dem Orga-Team zuschreiben muss..
 
+## Update: Buchempfehlung
+
+Christian Stegbauer: **Wikipedia. Das Rätsel der Kooperation**. VS Verlag für Sozialwissenschaften, Wiesbaden 2009. 321 S., br., 29,90 €. [thx, [@krrrhx(https://twitter.com/krrrhx)]]
 
 
