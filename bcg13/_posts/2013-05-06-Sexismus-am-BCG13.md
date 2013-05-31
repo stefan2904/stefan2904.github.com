@@ -111,4 +111,10 @@ Marc, ebenfalls Teil des Orga-Teams, hat das Wochenende nochmal aus seiner Sicht
 
 Ich habe mir [ein paar Gedanken zu Verantwortung in hierarchiefreien Räumen](http://blog.2904.cc/2013/05/21/Verantwortung-in-Freiraeumen/), vor allem auf BarCamps, gemacht. 
 
+## *Update, 31. Mai:*
+
+Mahriah hat Radio Helsinki letzte Woche [ein Interview gegeben](http://www.freie-radios.net/56310).
+
+
+
 
