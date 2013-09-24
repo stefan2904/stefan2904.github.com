@@ -16,7 +16,7 @@ Damit ich mit der Konfiguration und der Stuktur nicht ganz von null anfangen mus
 
 ## Code & Design
 
-Wie es derzeit ja modern ist, kann man die Artikel nicht nur in HTML, sondern auch in [Markdown](http://daringfireball.net/projects/markdown) verfassen; was insbesondere bei Links und inline-Formatierungen ein Vorteil ist, da es den Schreibfluss nicht so sehr stört. Außerdem werden Sonderzeichen richtig in ihre HTML-Codes umgesetzt. <3
+Wie es derzeit ja modern ist, kann man die Artikel nicht nur in HTML, sondern auch in [Markdown](http://daringfireball.net/projects/markdown) verfassen; was insbesondere bei Links und inline-Formatierungen ein Vorteil ist, da es den Schreibfluss nicht so sehr stört. Außerdem werden Sonderzeichen richtig in ihre HTML-Codes umgesetzt. &lt;3
 (Dank [Pygments](http://pygments.org/) gibt's so nebenbei auch Syntax-Highlighting.)
 
 Quasi das 'Tüpfelchen auf dem i' ist die Template-Sprache [Liquid](http://liquidmarkup.org/), besonders durch die [Jekyll-eigenen Filter und Erweiterungen](https://github.com/mojombo/jekyll/wiki/Liquid-Extensions) dafür. Dadurch wird der Generierungsprozess erst richtig dynamisch und ermöglicht klassiches Templating. Das beinhaltet natürlich Variablen, Schleifen und Bedingungen, was das Layout sehr übersichtlich macht. 
