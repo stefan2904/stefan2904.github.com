@@ -9,7 +9,7 @@ title: Home
     <li>
     	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo;
 		{% for cat in post.categories %}
-			[{{ cat }}] 
+			<span class="category">[{{ cat }}]</span>
 		{% endfor %}
 		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>

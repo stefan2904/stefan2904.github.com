@@ -32,7 +32,7 @@ body {
 img { -ms-interpolation-mode:bicubic; }
 
 /* IE6 ignores this and uses default size of 16pt */
-html>body { font-size:16pt; }
+/*html>body { font-size:16pt; }*/
 p { margin: 0 0 1.5em 0; text-align: justify; }
 
 a { text-decoration: none; color: #339; }
@@ -98,19 +98,19 @@ sup { line-height: 1ex; }
 */
 
 /* @group FancyFirst */
-
+/*
 .emphnext + p:first-letter, p.emphfirst:first-letter {
 	font-size: 48px; 
 	padding: 0 0.15em 0 0;
 	margin:  0.05em 0 -0.15em 0;
 	line-height: 1em;
 	float: left;
-	/* font-variant: small-caps;  */
-} 
+	 font-variant: small-caps;  
+} */
 
 /*
 .emphnext + p:first-line, p.emphfirst:first-line {
-	/* font-variant: small-caps;  */
+	 font-variant: small-caps;  
 	font-size: larger;
 }*/
 
@@ -561,4 +561,8 @@ img.maruku-png { }
 	border:1px solid #4C964D;
 	color:#FFF;
 }
+
+.category { 
+/*text-transform: uppercase;*/
+ }
 
