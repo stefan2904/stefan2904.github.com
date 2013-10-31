@@ -17,5 +17,5 @@ section: home
   {% endfor %}
 </ul>
 <a href="https://github.com/stefan2904/stefan2904.github.com/commits/master">
-	<small>Zuletzt aktualisiert am {{ 'now' | date: "%d.%m.%Y" }}</small>
+	<small>Zuletzt aktualisiert am {{ site.time | date: "%d.%m.%Y" }}</small>
 </a>
