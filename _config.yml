@@ -22,6 +22,8 @@ author :
   feed : http://blog.2904.cc/atom.xml
  # feedburner : feedname
 
+
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -31,6 +33,9 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://blog.2904.cc
+
+paginate : 5
+paginate_path : "page:num"
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

@@ -1,0 +1,38 @@
+<div id="page">
+	
+  <h1 class="emphnext">{% for cat in page.categories %}<span class="category">[{{ cat }}]</span> {% endfor %}{{ page.title }}</h1>
+  
+  <blockquote>{{ content }}</blockquote>
+  --
+   {% if page.sourceurl %}
+    <a href="{{ page.sourceurl }}" class="next" title="{{ page.source }}">{{ page.source }}</a>
+  {% else %}
+   {{ page.source }}
+  {% endif %}
+
+  <address class="signature">
+    <!--
+    <a class="posthistory" href="https://github.com/stefan2904/stefan2904.github.com/commits/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | downcase | replace:' ','-' }}.md">Artikel-History</a>
+    <a class="posthistory" href="https://github.com/stefan2904/stefan2904.github.com/commits/master/_posts/{{ post.url }}.md">Artikel-History</a> -->
+    <span class="date">{{ page.date | date: "%d.%m.%Y" }}</span>
+
+<!--
+  <ul class="tag_box">
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+  </ul>
+-->
+  </address>
+
+  <div class="prev-next">
+  {% if page.next %}
+    <a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">&rarr;</a>
+  {% endif %}
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr;</a>
+  {% endif %}
+  </div>
+  
+</div><!-- End Page -->
+
+{% include JB/comments %}
