@@ -8,11 +8,9 @@
    <meta name="author" content="{{ site.author.name }}" />
 
    <link rel="start" href="{{ HOME_PATH }}" />
-
 	{% if page.keywords %}
 	<meta name="keywords" content="{{ page.keywords }}">
 	{% endif %}
-	
 	{% if site.author.feedburner %}
   	<link rel="alternate" type="application/atom+xml" href="http://feeds.feedburner.com/{{ site.author.feedburner }}" title="RSS feed" />
 	{% endif %}
@@ -40,10 +38,10 @@
     <ul class="nav">
       <li><a class="home" href="{{ HOME_PATH }}">Home</a></li>
       <!-- <li><a  href="/topics.html">Themen</a></li> -->
-      <li><a  href="/archive.html">Archiv</a></li>
+      <li><a class="archive" href="/archive.html">Archiv</a></li>
      <!-- <li><a  href="/pages.html">Pages</a></li> -->
      <!-- <li><a  href="/categories.html">Kategorien</a></li> -->
-      <li><a  href="/tags.html">Tags</a></li>
+      <li><a class="tags" href="/tags.html">Tags</a></li>
       <li><a  href="https://twitter.com/stefan2904">Twitter</a></li>
     </ul>
   </div>

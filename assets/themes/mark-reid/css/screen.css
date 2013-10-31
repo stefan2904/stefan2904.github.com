@@ -33,7 +33,7 @@ img { -ms-interpolation-mode:bicubic; }
 
 /* IE6 ignores this and uses default size of 16pt */
 /*html>body { font-size:16pt; }*/
-p { margin: 0 0 1.5em 0; text-align: justify; }
+p { margin: 0.5em 0 0.5em 0; text-align: justify; }
 
 a { text-decoration: none; color: #339; }
 a:hover { text-decoration: underline; color: #33f; }
@@ -48,11 +48,11 @@ h1,h2,h3,h4 {
 	clear: left; 	
 	font-family: 'Merriweather', Palatino, georgia, "times new roman", serif;
 }
-h1 { margin-bottom: 1em; }
+h1 { margin: 0.5em 0 0.5em 0; }
 h2 {
 	font-size: 100%;
 	line-height: 1.6em;
-	margin:1.5em 0 1.5em 0;
+	margin:1em 0 0.5em 0;
 	font-weight:bold;
 }
 
@@ -60,7 +60,7 @@ hr {
 	border-top: 1px solid silver;
 	border-bottom: none;
 	padding: 0;
-	margin: 1.46em 0 0 0;
+	margin: 1em 0 0.5em 0;
 }
 
 sup { line-height: 1ex; }
@@ -254,13 +254,9 @@ ul.compact li a {
 .twitter-title a { display: inline; }
 /* @end */
 
-body#Work #header a.work, 
-body#Home #header a.home, 
-body#Play #header a.play,
-body#Info #header a.info,
-body#Code #header a.code,
-body#Past #header a.past,
-body#Kith #header a.kith
+body#archive #header a.archive, 
+body#tags #header a.tags, 
+body#home #header a.home
 { 
 	border-bottom: 2px solid silver; 
 }
