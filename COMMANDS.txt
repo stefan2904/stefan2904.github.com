@@ -1,0 +1,13 @@
+
+rake post title="A Title" [date="2012-02-09"]
+
+rake page name="about.html"
+
+
+
+rake theme:switch name="the-program"
+
+rake theme:install git="https://github.com/jekyllbootstrap/theme-twitter.git"
+rake theme:install name="cool-theme"
+
+rake theme:package name="twitter"

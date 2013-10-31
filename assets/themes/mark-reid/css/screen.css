@@ -22,7 +22,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 
 body {
 	font-family: 'Merriweather', Palatino, georgia, "times new roman", serif;
-	font-weight: 400;
+	/* font-weight: 400; */
 	background-color: whitesmoke;
 	background-position: center -18em;
 	background-repeat: repeat-x; 
@@ -98,18 +98,19 @@ sup { line-height: 1ex; }
 */
 
 /* @group FancyFirst */
+
 .emphnext + p:first-letter, p.emphfirst:first-letter {
-	font-size: 48px;
+	font-size: 48px; 
 	padding: 0 0.15em 0 0;
 	margin:  0.05em 0 -0.15em 0;
 	line-height: 1em;
 	float: left;
-	font-variant: small-caps;
-}
+	/* font-variant: small-caps;  */
+} 
 
 /*
 .emphnext + p:first-line, p.emphfirst:first-line {
-	font-variant: small-caps;
+	/* font-variant: small-caps;  */
 	font-size: larger;
 }*/
 
@@ -205,7 +206,7 @@ ul.compact li a {
 #header a:hover .hover { color: silver; }
 #header {
 	position: relative;
-	font-variant: small-caps;
+	/* font-variant: small-caps;  */
 	line-height: 1em;
 	margin-top: .5em;
 	margin-bottom: 0;
@@ -296,7 +297,7 @@ body#Kith #header a.kith
 	max-width: 6em;
 	margin-left: -7.5em;
 	font-weight: bold;
-	font-variant: small-caps;
+	/* font-variant: small-caps;  */
 }
 .section p { margin-bottom: 1.43em; }
 
@@ -314,14 +315,14 @@ p.excerpt { margin: 0; }
 	position: relative;
 }
 .signature .author { 
-	font-variant: small-caps; 
+	/* font-variant: small-caps;  */ 
 	font-style: normal; 
 	color: black;
 	display: block;
 	margin-bottom: 0em;
 }
 .signature .posthistory { 
-	font-variant: small-caps; 
+	/* font-variant: small-caps;  */ 
 	font-style: normal; 
 	display: block;
 	margin-bottom: 0em;
@@ -331,7 +332,7 @@ p.excerpt { margin: 0; }
 	line-height: 1em;
 	padding-bottom: 1em;
 	display: block; 
-	font-variant: small-caps; 
+	/* font-variant: small-caps;  */ 
 	font-style: normal; 
 	position: absolute;
 	right: 0;
@@ -403,7 +404,7 @@ pre > code {
 }
 .dsq-header-time { margin-left: 0 !important; }
 .dsq-comment-header cite { 
-	font-variant: small-caps;
+	/* font-variant: small-caps;  */
 	margin-left: 0 !important;
 }
 .dsq-comment-footer { 
@@ -474,7 +475,7 @@ p.delicious-extended:before { content: ' — '; }
 	text-align: right;
 }
 #footer a {
-	font-variant: small-caps;
+	/* font-variant: small-caps;  */
 	font-style: normal;
 	color: #77d;
 	text-decoration: none;
