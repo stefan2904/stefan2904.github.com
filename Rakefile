@@ -72,7 +72,7 @@ task :post do
 end # task :post
 
 # Usage: rake quote title="A Title" [date="2012-02-09"]
-desc "Begin a new post in #{CONFIG['posts']}"
+desc "Begin a new quote in #{CONFIG['posts']}"
 task :quote do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
