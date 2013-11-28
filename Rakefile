@@ -97,6 +97,7 @@ task :quote do
     post.puts "category: Zitat"
     post.puts "tags: []"
     post.puts "source: "
+    post.puts "sourceurl: "
     post.puts "---"
     post.puts "{% include JB/setup %}"
     post.puts ""
