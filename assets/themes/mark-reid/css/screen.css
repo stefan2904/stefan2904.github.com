@@ -31,6 +31,8 @@ body {
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
 img { -ms-interpolation-mode:bicubic; }
 
+div#page p img, div#page img { max-width: 550px; }
+
 /* IE6 ignores this and uses default size of 16pt */
 /*html>body { font-size:16pt; }*/
 p { margin: 0.5em 0 0.5em 0; text-align: justify; }

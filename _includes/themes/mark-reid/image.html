@@ -4,12 +4,12 @@
   <h1 class="emphnext">{% for cat in page.categories %}<span class="category">[{{ cat }}]</span> {% endfor %}{{ page.title }}</h1>
   -->
   
-  <blockquote>{{ content }}</blockquote>
-  --
+  {{ content }}
+  
    {% if page.sourceurl %}
+     (via
     <a href="{{ page.sourceurl }}" class="next" title="{{ page.source }}">{{ page.source }}</a>
-  {% else %}
-   {{ page.source }}
+      )
   {% endif %}
 
   <address class="signature">
