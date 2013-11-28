@@ -520,6 +520,7 @@ img.maruku-png { }
 /* .prev-next */
 .prev-next {
 	position:relative;
+	padding-top: 1em;
 }
 .prev-next .next{ 
 	float:right;
