@@ -70,6 +70,10 @@ div.low {
 	padding-bottom: 1em;
 }
 
+div.lastupdated {
+	margin-top: 2em;
+}
+
 sup { line-height: 1ex; }
 
 #site {
