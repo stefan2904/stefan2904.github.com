@@ -212,9 +212,9 @@ ul.compact li a {
 /* @group Header */
 #header, #header a { color: silver; }
 #header .hover { color: transparent; }
-#header:hover a { color: black; text-shadow: #aaa 2px 2px 3px;}
+#header:hover a { color: grey; text-shadow: #grey 2px 2px 3px;}
 #header:hover a:hover { text-decoration: none; }
-#header a:hover .hover { color: silver; }
+#header a:hover .hover { color: grey; }
 #header {
 	position: relative;
 	/* font-variant: small-caps;  */
@@ -277,7 +277,7 @@ body#home h1.emphnext { display: none; }
 /* @end */
 
 /* @group Footnotes */
-.footnotes { color: grey; }
+.footnotes { color: silver; }
 .footnotes:hover { color: black; }
 .footnotes ol li {
 	list-style-type: decimal;
@@ -483,7 +483,7 @@ p.delicious-extended:before { content: ' — '; }
 /* @group Footer */
 #footer {
 	margin-top: 0;
-	color: grey;
+	color: silver;
 	font-size: 87.5%;
 	line-height: 1.3em;
 }
@@ -583,5 +583,6 @@ img.maruku-png { }
 
 .category { 
 /*text-transform: uppercase;*/
+	color: silver;
  }
 
