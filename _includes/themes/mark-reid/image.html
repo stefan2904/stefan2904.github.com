@@ -12,8 +12,7 @@
       )
   {% endif %}
 
-  <address class="signature">
-
+  <div class="dateblock">
     <span class="date">{{ page.date | date: "%d.%m.%Y" }}</span>
 
 <!--
@@ -22,7 +21,7 @@
     {% include JB/tags_list %}
   </ul>
 -->
-  </address>
+  </div>
 
   <div class="prev-next">
   {% if page.next %}

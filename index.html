@@ -5,17 +5,25 @@ section: home
 ---
 {% include JB/setup %}
 
-  <ul class="posts">
+  <div class="posts">
     {% for post in paginator.posts %}
-      <li>
-      	<span>{{ post.date | date: "%d.%m.%Y" }}</span> &raquo;
-  		{% for cat in post.categories %}
-  			<span class="category">[{{ cat }}]</span>
-  		{% endfor %}
-  		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+      <div class="post">
+      	<h2>
+    		{% for cat in post.categories %}
+    			<span class="category">[{{ cat }}]</span>
+      		{% endfor %}
+      		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt }}</p>
+        <div class="dateblock">
+          <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+        </div>
+        <div class="low">
+          <hr />
+        </div>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 
   <div class="prev-next">
     <p>
