@@ -67,6 +67,7 @@ hr {
 
 div.low {
 	padding-top: 0.1em;
+	padding-bottom: 1em;
 }
 
 sup { line-height: 1ex; }
@@ -267,6 +268,8 @@ body#home #header a.home
 	border-bottom: 2px solid silver; 
 }
 
+body#home h1.emphnext { display: none; }
+
 /* @end */
 
 /* @group Footnotes */
@@ -313,9 +316,12 @@ p.excerpt { margin: 0; }
 
 /* @group Signature */
 .signature, .dateblock { 
-	margin-top: 3em; 
+	margin-top: 1em; 
 	position: relative;
 }
+
+
+
 .signature .author { 
 	/* font-variant: small-caps;  */ 
 	font-style: normal; 
@@ -340,6 +346,11 @@ p.excerpt { margin: 0; }
 	right: 0;
 	top: 0;
 }
+
+.date a {
+	color: grey;
+}
+
 /*
 .signature .location { 
 	display: block; 

@@ -7,16 +7,28 @@ section: home
 
   <div class="posts">
     {% for post in paginator.posts %}
-      <div class="post">
+      <div class='post'>
+
+        {% if post.layout == 'post' %}
       	<h2>
     		{% for cat in post.categories %}
     			<span class="category">[{{ cat }}]</span>
       		{% endfor %}
       		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.excerpt }}</p>
+        {% endif %}
+
+        <p class="content">
+          <!--  {{ post.excerpt.size }} / {{ post.excerpt | size }} --> 
+          {% if post.layout == 'post' and post.excerpt and post.excerpt.size > 0 %}
+                {{ post.excerpt }}
+          {% else %}
+            {{ post.content }}
+          {% endif %}
+        </p>
+
         <div class="dateblock">
-          <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+          <span class="date"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }}</a></span>
         </div>
         <div class="low">
           <hr />

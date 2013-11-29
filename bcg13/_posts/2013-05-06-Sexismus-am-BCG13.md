@@ -5,13 +5,9 @@ tags: 		[Gesellschaft, bcg13]
 published: 	true
 ---
 
-<!--
-<font color="red"><strong>Dieser Artikel ist noch work in progress.</strong></font>
--->
+Das [BarCamp Graz](http://barcamp-graz.at/), das heuer wieder am [FH Joanneum](http://www.fh-joanneum.at) stattfand, war in vielerlei Hinsicht ein voller Erfolg. Darüber sind [wir uns einig](http://murdeltas.wordpress.com/2013/05/04/barcamp-graz-2013-personlicher-ruckblick/), und dafür haben wir uns in den letzten Tagen [genug gelobt](http://www.brandsupply.de/blog/2013/04/29/barcamp-graz-ein-voller-erfolg/). Das ist ziemlich sicher wahr und bereitet einiges an Freude, vor allem, wenn man bedenkt, wie viel Energie in die Organisation gesteckt wurde. 
 
 *Disclaimer: Ich bin Teil des Orga-Teams des BarCamp Graz, schreibe hier jedoch nicht für dieses.*
-
-Das [BarCamp Graz](http://barcamp-graz.at/), das heuer wieder am [FH Joanneum](http://www.fh-joanneum.at) stattfand, war in vielerlei Hinsicht ein voller Erfolg. Darüber sind [wir uns einig](http://murdeltas.wordpress.com/2013/05/04/barcamp-graz-2013-personlicher-ruckblick/), und dafür haben wir uns in den letzten Tagen [genug gelobt](http://www.brandsupply.de/blog/2013/04/29/barcamp-graz-ein-voller-erfolg/). Das ist ziemlich sicher wahr und bereitet einiges an Freude, vor allem, wenn man bedenkt, wie viel Energie in die Organisation gesteckt wurde. 
 
 Es sind aber leider ein paar Dinge passiert, die diese Freude mehr als nur ein wenig trüben. Ich möchte diese jedoch nicht als "Vorfälle" oder "Vorkommnisse" abtun, und daher Versuchen, eine Chronologie des Wochenendes aufzuschreiben und meine Sicht darauf darzustellen. Des weiteren möchte ich auf die Fehler eingehen, die wir aus Orga-Sicht vielleicht gemacht haben und die ich mir vor allem selbst vorwerfe. Abschließend möchte ich mögliche Schritte diskutieren, die wir im Nachhinein und als Vorbereitung auf kommende Events setzen können. Ich habe eine Woche damit gewartet, weil ich zumindest versuchen will, diesen Bericht möglichst objektiv zu halten, was mir nicht leicht fiel. 
 
