@@ -35,7 +35,7 @@ div#page p img, div#page img { max-width: 550px; }
 
 /* IE6 ignores this and uses default size of 16pt */
 /*html>body { font-size:16pt; }*/
-p { margin: 0.1em 0 0.5em 0; text-align: justify; } /* blocksatz */
+p { margin: 0 0 0.5em 0; text-align: justify; } /* blocksatz */
 
 a { text-decoration: none; color: #339; }
 a:hover { text-decoration: underline; color: #33f; }
@@ -54,7 +54,7 @@ h1 { margin: 0.5em 0 0.5em 0; }
 h2 {
 	font-size: 115%;
 	line-height: 1.6em;
-	margin:1em 0 0.1em 0;
+	margin:1em 0 0 0;
 	font-weight:bold;
 }
 
