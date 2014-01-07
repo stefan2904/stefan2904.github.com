@@ -25,4 +25,6 @@ Natürlich soll das kein Totschlag-Argument gegen jeglichen Aktivismus sein, abe
 
 ## Netzpolitische Inklusion
 
-Wie schon angesprochen steht die "netzpolitische Szene" selbst vor einigen Problemen. Handelt es sich bei dieser Gruppe (wie so oft im Aktivismus und vor allem online) doch um keine homogene Gruppe sondern um verschiedenste Menschen mit unterschiedlichsten Hintergründen. Und auch wenn manche der Meinung sind, eine jede und ein jeder sind hier willkommen, ist dem nicht so. "Inklusiv" und offen für alle zu sein bedeut nun mal, jene auszuschließen, die dies (aktiv oder passiv) verhindern. Auch wenn das viele nicht einsehen.
+Wie schon angesprochen steht die "netzpolitische Szene" selbst vor einigen Problemen. Handelt es sich bei dieser Gruppe (wie so oft im Aktivismus und vor allem online) doch um keine homogene Gruppe sondern um verschiedenste Menschen mit unterschiedlichsten Hintergründen. Und auch wenn manche der Meinung sind, eine jede und ein jeder sind hier willkommen, ist dem oft nicht so. "Inklusiv" und offen für alle zu sein bedeut nun mal, jene auszuschließen, die dies (aktiv oder passiv) verhindern. Auch wenn das viele nicht einsehen.
+
+Ich will nicht Teil einer Community sein, die meint, die Gesellschaft zu vertreten, während sie gleichzeitig große Teile dieser ausschließt.
