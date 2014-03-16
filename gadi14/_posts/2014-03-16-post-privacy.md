@@ -5,8 +5,6 @@ tags: 		[Uni, gadi14, Gesellschaft]
 published: 	true
 ---
 
-{% include JB/setup %}
-
 Wenn man mit "Netzideologen" wie <a href="https://twitter.com/mspro">Michael Seemann</a> &uuml;ber Privatsph&auml;re redet, bekommt man unerwartetes zu h&ouml;ren. 
 
 *(Crosspost [meines ersten Artikels](http://tugll.tugraz.at/blog/view/41034/ist-privatsphare-noch-zeitgemass) aus dem Lehrveranstaltungs-Blog von [Gesellschaftliche Aspekte der Informationstechnologie](http://blog.2904.cc/2014/03/14/gadi14/).)*
