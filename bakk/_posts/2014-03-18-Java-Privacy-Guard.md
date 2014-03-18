@@ -7,7 +7,7 @@ published: 	true
 
 Thema meiner Bachelor-Arbeit, welche ich seit Ende Feber dieses Jahres am [Institut für Angewandte Informationsverarbeitung und Kommunikationstechnologie](http://iaik.tugraz.at) (IAIK) schreibe, ist **openPGP**. Da ich versuchen werde, diese Arbeit nach dem [Open Science](http://openscienceasap.org/open-science/) Prinzip  durchzuführen, werde ich in diesem Blog ab und zu davon berichten.
 
-Konkret geht es bei meinem Projekt um die Implementierung des [RFC 4880](https://tools.ietf.org/html/rfc4880) in Java mit Hilfe des [IAIK-JCE](http://jce.iaik.tugraz.at/), der Crypto-Bibliothek des IAIK. Aus naheliegenden Gründen habe ihr für dieses Projekt den Arbeitstitel *Java Privacy Guard* gewählt.
+Konkret geht es bei meinem Projekt um die Implementierung des [RFC 4880](https://tools.ietf.org/html/rfc4880) in Java mit Hilfe des [IAIK-JCE](http://jce.iaik.tugraz.at/), der Crypto-Bibliothek des IAIK. Aus naheliegenden Gründen habe ich für dieses Projekt den Arbeitstitel *Java Privacy Guard* gewählt.
 
 # RFC 4880
 
