@@ -24,7 +24,7 @@ Anders als oft geglaubt verschlüsselt eine openPGP-Implementierung die Daten da
 
 ![openPGP, Diagramm (cc-by-sa) by me](http://2904.cc/blogimg/bakk/PGP.png)
 
-Unter einer "PGP Nachricht" (im Sinne des RFC 4880) versteht man also nicht nur die eigentliche (verschlüsselte und/oder signierte) Datei, sondern auch die Schlüssel oder eine Signatur. RFC 4880 definiert also den Aufbau solcher "Nachrichten" (daher der Titel *OpenPGP Message Format*).
+Unter einer "PGP Nachricht" (im Sinne des RFC 4880) versteht man also nicht nur die eigentliche (verschlüsselte und/oder signierte) Datei, sondern auch die Schlüssel oder eine Signatur. RFC 4880 definiert den Aufbau solcher "Nachrichten" (daher der Titel *OpenPGP Message Format*).
 
-Im Zuge dieser Definitionen legt openPGP auch fest, [welche Algorithmen](https://tools.ietf.org/html/rfc4880#section-9) für die Verschlüsselung und Signatur eingesetzt werden können. Die Algorithmen selbst sind jedoch weder in openPGP-Standard Spezifiziert (sondern in eigenen RFCs) noch Teil meines Projects (da schon im IAIK-JCE implementiert).
+Im Zuge dieser Definitionen legt openPGP auch fest, [welche Algorithmen](https://tools.ietf.org/html/rfc4880#section-9) für die Verschlüsselung und Signatur eingesetzt werden können. Die Algorithmen selbst sind jedoch weder im openPGP-Standard spezifiziert (sondern in eigenen RFCs) noch Teil meines Projects (da schon im IAIK-JCE implementiert).
 
