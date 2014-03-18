@@ -28,3 +28,14 @@ Unter einer "PGP Nachricht" (im Sinne des RFC 4880) versteht man also nicht nur 
 
 Im Zuge dieser Definitionen legt openPGP auch fest, [welche Algorithmen](https://tools.ietf.org/html/rfc4880#section-9) für die Verschlüsselung und Signatur eingesetzt werden können. Die Algorithmen selbst sind jedoch weder im openPGP-Standard spezifiziert (sondern in eigenen RFCs) noch Teil meines Projects (da schon im IAIK-JCE implementiert).
 
+# Status
+
+Um den Beginn der Bachelor-Arbeit etwas zu erleichtern, gab es vom IAIK aus das Angebot, die ersten 2 Wochen am Institut zu verbringen, welches ich sehr gerne angenommen habe. Dank örtlicher Nähe zu meinem Betreuer (und anderer KollegInnen) und dem universitären Umfeld konnte ich schnell loslegen. Erster, bereits nach eineinhalb Wochen erreichter "Milestone", war das Einlesen von mit GnuPG generierten (RSA) Keys, was meine zeitlichen Einschätzungen etwas übertroffen hat.
+
+Nächster Schritt ist das Schreiben von weiteren Unit-Tests und das Implementieren weiterer Algorithmen. Außerdem sollte es nicht mehr lange dauernd, bis mit den eingelesenen Keys auch Daten entschlüsselt werden können. Abschließend soll es noch möglich sein, Keypairs zu generieren und natürlich Nachrichten zu verschlüsseln so wie zu signieren.
+
+Weitere Features werden sich im Rahmen der Bachelor-Arbeit wohl nicht ausgehen, da ich abschließend noch die eigentliche Arbeit darüber schreiben muss, was auch Zeit kosten wird. Es gibt jedoch einige mögliche Erweiterungen außerhalb der Bachelor-Arbeit:
+
+Eine davon ist das Integrieren eines PGP-Keystores in die Java Crypto Architektur (JCA) bzw. eine Evaluierung, ob das möglich ist oder Sinn macht. Außerdem wäre ein PGP-Crypto-Provider naheliegend.
+
+Weitere potenzielle Erweiterungen sind neben einem eigenen Keyserver eine Integration des Bürgerkarten-Systems, was jedoch momentan nicht mehr als ein früher Gedanke ist.
