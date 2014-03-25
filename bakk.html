@@ -1,0 +1,48 @@
+---
+layout: page
+title: Bakk
+section: home	
+---
+{% include JB/setup %}
+<p>
+<strong>Der Blog von dem Stefan seiner Bachelor-Arbeit</strong> <br/>
+[<a href="http://jpg.2904.cc/">Projekt-Seite</a>]
+ <hr />
+</p>
+
+  <div class="posts">
+    {% for post in site.posts %}
+    {% if post.categories and post.categories[0] != 'bakk' %}
+      {% break %}
+    {% endif %}
+      <div class='post'>
+
+        {% if post.layout == 'post' %}
+      	<h2>
+    		{% for cat in post.categories %}
+    			<span class="category">[{{ cat }}]</span>
+      		{% endfor %}
+      		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        {% endif %}
+
+        <p class="content">
+          <!--  {{ post.excerpt.size }} / {{ post.excerpt | size }} --> 
+          {% if post.layout == 'post' and post.excerpt and post.excerpt.size > 0 %}
+                {{ post.excerpt }}
+          {% else %}
+            {{ post.content }}
+          {% endif %}
+        </p>
+
+        <div class="dateblock">
+          <span class="date"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }}</a></span>
+        </div>
+        <div class="low">
+          <hr />
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+    
