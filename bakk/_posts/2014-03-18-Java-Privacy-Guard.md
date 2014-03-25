@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title: 		Java Privacy Guard?
-tags: 		[Uni, back, Tech]
+tags: 		[Uni, bakk, Tech]
 published: 	true
 ---
 

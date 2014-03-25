@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title: 		Open Science?
-tags: 		[Uni, back, Tech]
+tags: 		[Uni, bakk, Tech]
 published: 	true
 ---
 
