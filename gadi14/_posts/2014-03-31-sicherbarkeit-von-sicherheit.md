@@ -5,7 +5,7 @@ tags: 		[Uni, gadi14, Gesellschaft]
 published: 	true
 ---
 
-Letzte Woche schrieb ich über Snowedens Talk auf der TED2014 Konferenz. Einen von ihm (und vielen anderen) besprochenen Punkt habe ich jedoch noch nicht erwähnt: Seine Forderung nach benutzerfreundlichen Tolls zur sicheren Kommunikation.
+Letzte Woche schrieb ich über Snowedens Talk auf der TED2014 Konferenz. Einen von ihm (und vielen anderen) besprochenen Punkt habe ich jedoch noch nicht erwähnt: Seine Forderung nach benutzerfreundlichen Tools zur sicheren Kommunikation.
 
 *(Crosspost [meines vierten Artikels](http://tugll.tugraz.at/blog/view/41532/wie-sichtbar-soll-sicherheit-sein) aus dem Lehrveranstaltungs-Blog von [Gesellschaftliche Aspekte der Informationstechnologie](http://blog.2904.cc/2014/03/14/gadi14/).)*
 
