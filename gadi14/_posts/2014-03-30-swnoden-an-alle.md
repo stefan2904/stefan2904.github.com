@@ -5,7 +5,7 @@ tags: 		[Uni, gadi14, Gesellschaft]
 published: 	true
 ---
 
-&Uuml;ber Edward Snowedens Talk auf der TED2014.
+&Uuml;ber Edward Snowden Talk auf der TED2014.
 
 *(Crosspost [meines dritten Artikels](http://tugll.tugraz.at/blog/view/41510/snowden-an-alle-holt-euch-das-internet-zuruck) aus dem Lehrveranstaltungs-Blog von [Gesellschaftliche Aspekte der Informationstechnologie](http://blog.2904.cc/2014/03/14/gadi14/).)*
 
@@ -22,7 +22,7 @@ Im <strong>Interview mit TED-Kurator Chris Anderson</strong> gibt Snowden einen 
 F&uuml;r jede, die sich das letzte Jahr n&auml;her mit den Snowden'schen Enth&uuml;llungen besch&auml;ftigt haben, birgt der Talk zwar wenig neues, bringt aber in knapp &uuml;ber einer halben Stunde dennoch vieles auf den Punkt.
 
 ## Nichts zu verbergen?
-Interessant ist unter anderem Snowdens Antwort auf Andersons (wohl bewusst provokante) Frage, wieso denn die ganze &Uuml;berwachung ein Problem sein, wenn man doch eh <strong>nichts zu verbergen</strong> habe. Und zwar argumentiert Snoweden hier unter anderem mit der Erl&auml;uterung, was ein <strong>"Recht auf Privatsph&auml;re"</strong> eigentlich ist, und das ein "Recht" nicht deswegen &uuml;berfl&uuml;ssig wird, nur weil man es gerade nicht braucht. Als Beispiel nennt er m&ouml;gliche <strong>Fehlinterpretationen</strong> von Daten. Einmal gespeicherte Daten k&ouml;nnten in Zukunft ganz anders Interpretiert werden. Und das diese Interpretation von l&auml;ngst Vergangenen Ereignissen durchaus ein Anliegen der NSA ist, erscheint angesichts des <a href="https://en.wikipedia.org/wiki/Utah_Data_Center">neuen NSA-Daten(speicher)zentrums in Utah</a> nicht unrealistisch.</p>
+Interessant ist unter anderem Snowdens Antwort auf Andersons (wohl bewusst provokante) Frage, wieso denn die ganze &Uuml;berwachung ein Problem sein, wenn man doch eh <strong>nichts zu verbergen</strong> habe. Und zwar argumentiert Snowden hier unter anderem mit der Erl&auml;uterung, was ein <strong>"Recht auf Privatsph&auml;re"</strong> eigentlich ist, und das ein "Recht" nicht deswegen &uuml;berfl&uuml;ssig wird, nur weil man es gerade nicht braucht. Als Beispiel nennt er m&ouml;gliche <strong>Fehlinterpretationen</strong> von Daten. Einmal gespeicherte Daten k&ouml;nnten in Zukunft ganz anders Interpretiert werden. Und das diese Interpretation von l&auml;ngst Vergangenen Ereignissen durchaus ein Anliegen der NSA ist, erscheint angesichts des <a href="https://en.wikipedia.org/wiki/Utah_Data_Center">neuen NSA-Daten(speicher)zentrums in Utah</a> nicht unrealistisch.</p>
 
 ## Big Brother antwortet
 Ein <strong>weiterer Talk</strong> ist in diesem Zusammenhang &uuml;brigens sehenswert, wenn auch er den Umfang dieses Posts sprengen w&uuml;rde: <a href="http://on.ted.com/a06N7">Die Antwort vom stellvertretenden NSA-Direktor Richard Ledgett</a>.
