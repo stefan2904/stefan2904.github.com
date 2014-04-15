@@ -27,7 +27,7 @@ Ein <strong>Beispiel</strong>: Die Daten einer E-Mail sind der Text und eventuel
 
 Ein <strong>analoges Beispiel</strong> verdeutlicht diese Problematik weiter: man kann einer Person zwar einen Brief schicken, ohne das die Post wei&szlig;, was man geschrieben hat. Man kann jedoch nicht verhindern, dass jemand mitbekommt, DASS diese Person einen Brief bekommt (und eventuell auch nicht, von wem er stammt).
 
-Ein weiteres interessantes (und gut beschriebenes) <strong>Beispiel zur Anwendung</strong> stammt von&nbsp;<a href="https://twitter.com/kjhealy">Kieran Healy</a>, welcher <a href="http://tugll.tugraz.at/kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/">mit Hilfe von Metadaten aus dem 18. Jahrhundert eine Person ausfindig gemacht hat</a>.
+Ein weiteres interessantes (und gut beschriebenes) <strong>Beispiel zur Anwendung</strong> stammt von&nbsp;<a href="https://twitter.com/kjhealy">Kieran Healy</a>, welcher <a href="http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/">mit Hilfe von Metadaten aus dem 18. Jahrhundert eine Person ausfindig gemacht hat</a>.
 
 ## Anonym trotz Metadaten?
 Das <a href="https://netzfreiheit.org/2014/04/08/presseaussendung-zu-den-verstrickungen-der-nsa-mit-oesterreichischen-behoerden/">Interesse von Beh&ouml;rden aller L&auml;nder</a> (was speichert wohl die <strong>Vorratsdatenspeicherung</strong>) best&auml;tigt die Bedeutung von Metadaten weiter.
