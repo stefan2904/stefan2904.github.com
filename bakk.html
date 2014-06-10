@@ -13,7 +13,7 @@ section: home
   <div class="posts">
     {% for post in site.posts %}
     {% if post.categories and post.categories[0] != 'bakk' %}
-      {% break %}
+      {% continue %}
     {% endif %}
       <div class='post'>
 
