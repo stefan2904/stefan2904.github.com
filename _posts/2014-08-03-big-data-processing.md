@@ -5,11 +5,11 @@ tags: 		[Tech]
 published: 	true
 ---
 
-Da ich mich letztes Semester im Zuge [einer Lehrveranstaltung](https://www.spsc.tugraz.at/courses/EW) und auch [darüber hinaus](https://www.coursera.org/course/ml) mit Machine Learning beschäftigt habe, war es naheliegend, mich auch im Sommer mit ***Daten*** zu beschäftigen. 
+Da ich mich letztes Semester im Zuge [einer Lehrveranstaltung](https://www.spsc.tugraz.at/courses/EW) und auch [darüber hinaus](https://www.coursera.org/course/ml) mit Machine Learning beschäftigt habe, war es naheliegend, mich auch in den Sommerferien mit ***Daten*** auseinanderzusetzen. 
 
-Nach dem Absolvieren [einiger Kurs](https://www.coursera.org/specialization/jhudatascience/) zum Thema "*Data Science*" bin ich (mal wieder) bei einer Frage gelandet, die ([nicht nur](http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html)) mich seit längerem begleitet: Wie verteilt man eigentlich Arbeit auf mehrere Rechner?
+Nach dem Absolvieren [einiger Kurse](https://www.coursera.org/specialization/jhudatascience/) zum Thema "*Data Science*" bin ich (mal wieder) bei einer Frage gelandet, die ([nicht nur](http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html)) mich seit längerem begleitet: Wie verteilt man eigentlich Arbeit auf mehrere Rechner?
 
-Obwohl mir Antworten zu dieser Frage sowohl auf der Uni als auch bei anderen Recherchen bereits begegnet sind, hatte ich in meinen bisherigen Projekten nicht wirklich Gelegenheit, diese auszuprobieren geschweige denn produktiv einzusetzen. Im Zuge der Recherche bin ich dann schnell mal bei **[MapReduce](https://en.wikipedia.org/wiki/MapReduce)** und kurz darauf bei **[Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)** gelandet, mit dem ich mich letzte Woche ein wenig auseinandergesetzt habe. 
+Obwohl mir Antworten zu dieser Frage sowohl auf der Uni als auch bei anderen Recherchen bereits begegnet sind, hatte ich in meinen bisherigen Projekten nicht wirklich Gelegenheit, diese auszuprobieren, geschweige denn produktiv einzusetzen. Im Zuge der Recherche bin ich dann schnell mal bei **[MapReduce](https://en.wikipedia.org/wiki/MapReduce)** und kurz darauf bei **[Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)** gelandet, mit dem ich mich letzte Woche ein wenig auseinandergesetzt habe. Unter anderem habe ich den [Udacity-Kurs von Cloudera](https://www.udacity.com/course/ud617) dazu absolviert.
 
 *(Dieser Artikel ist ein persönlicher Erfahrungsbericht und kein Tutorial; beinhaltet somit wohl nicht viel Information, die nicht auch andernorts besser aufbereitet zu finden ist.)*
 
@@ -17,7 +17,7 @@ Obwohl mir Antworten zu dieser Frage sowohl auf der Uni als auch bei anderen Rec
 
 Hadoop ist ein Framework für verteilte Software. Es regelt sowohl die Verteilung von Daten auf mehrere Rechner (Hadoop Distributed File System, HDFS) als auch die Verarbeitung dieser Daten mittels Ausführen von Software auf diesem Cluster (MapReduce). Da es sich um ein Framework handelt ist die eigentliche MapReduce-Programmlogik nicht Teil von Hadoop. Des weiteren gibt es einige Erweiterungen so wie auf Hadoop aufbauende Projekte, wie Datenbanken (zB [Apache HBase](https://hbase.apache.org/)) und Data-Warehouse ([Apache Hive](https://hive.apache.org/)) so wie Systeme zur einfacheren Konfiguration oder zum Monitoring.
 
-Zur Einordnung: [Facebook's Hadoop-Cluster](http://de.scribd.com/doc/103621762/Big-Data-Whiteboard-082212) war 2012 über 100PB groß und 105TB davon waren mittels Hive in 30 Minuten scannbar.
+(Zur Einordnung: [Facebook's Hadoop-Cluster](http://de.scribd.com/doc/103621762/Big-Data-Whiteboard-082212) war 2012 über 100PB groß und 105TB davon waren mittels Hive in 30 Minuten scannbar.)
 
 ## MapReduce
 
@@ -73,7 +73,7 @@ Als Erweiterung wäre übrigens auch dieser Schritt parallelisierbar: Man kann m
 
 ### Neues Paradigma?
 
-Die Frage, ob das MapReduce Programmiermodell (immerhin schon 10 Jahre alt) ein neues Paradigma in der verteilten Verarbeitung großer Daten ist/war, kann ich momentan nicht beurteilen. Vor allem als Alternative zu bewährten relationalen Datenbanken scheint es aber zumindest für einige Anwendungsfälle eine Option. Die am [englischen Wikipedia-Artikel zu MapReduce](https://en.wikipedia.org/wiki/MapReduce#Criticism) aufgeführte Kritik von 2 Informatikern hierzu ist aber nachvollziehbar. Vor allem die Tatsache, dass man mit einem relationalen Datenbanksystem genauso MapReduce implementieren kann (zB Map-Schritt als Query auf mehreren Rechnern) ist ein interessanter Punkt.
+Die Frage, ob das MapReduce Programmiermodell (immerhin schon 10 Jahre alt) ein neues Paradigma in der verteilten Verarbeitung großer Daten ist/war, kann ich momentan nicht beurteilen. Vor allem als Alternative zu bewährten relationalen Datenbanken ist es aber zumindest für einige Anwendungsfälle eine Option. Die am [englischen Wikipedia-Artikel zu MapReduce](https://en.wikipedia.org/wiki/MapReduce#Criticism) aufgeführte Kritik von 2 Informatikern hierzu ist aber nachvollziehbar. Vor allem die Tatsache, dass man mit einem relationalen Datenbanksystem genauso MapReduce implementieren kann (zB Map-Schritt als Query auf mehreren Rechnern) ist ein interessanter Punkt.
 
 Für Machine Learning scheint aber eher [Apache Spark](https://spark.apache.org/) relevant zu sein, das zwar auf Hadoop aufbaut, aber ohne MapReduce auskommt.
 
