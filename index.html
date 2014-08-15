@@ -7,6 +7,9 @@ section: home
 
   <div class="posts">
     {% for post in paginator.posts %}
+      {% if post.published == 'false' %}
+        {% continue %}
+      {% endif %}
       <div class='post'>
 
         {% if post.layout == 'post' %}
