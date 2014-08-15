@@ -1,0 +1,39 @@
+---
+layout: 	post
+title: 		Ungewisse Zukunft?
+tags: 		[Gesellschaft]
+published: 	true
+---
+
+Wir kennen das. Bei jeder WM wird das ganze Land zu Fussball-ExpertInnen. <strike>Nach</strike>Vor jeder Großbaustelle gibt es 8 Millionen ArchitektInnen. Nach jeder Demo etliche Demokratie-ErklärerInnen. Und die eine Lösung für den Nahost-Konflikt haben sowieso alle in der Schublade, es will und nur niemand zuhören. 
+
+## Reden ist Silber, Schweigen ist …
+
+Diesen oder einen ähnlichen Eindruck bekommt man nicht nur an allen möglichen Stammtischen, sondern heutzutage auch immer mehr in den sozialen Netzwerken und Kommentar-Abteilungen von diversen online Medien. Und auch wenn ich dem "Drang", aktuelle Geschehnisse zu kommentieren (oder mich einfach nur mal zu empören), in der Vergangenheit des öfteren verfallen bin, und wohl auch noch immer ab und zu verfalle, gewinnt in letzter Zeit immer öfters das Schweigen. 
+
+Schweigen nicht, weil ich die Diskussion scheue oder Angst davor habe, mal falsch zu liegen, sondern Schweigen, weil ich oft schlicht und einfach nicht in der Lage bin, den Sachverhalt gut genug zu verstehen, um mir eine (öffentlich "verkündbare") Meinung zu bilden. [Und ich als [privilegierter](http://www.checkmyprivilege.com/quiz) Student habe ja noch Zeit, mich mit sowas zu beschäftigen. Wie sollen das [Working Class Heros](https://www.youtube.com/watch?v=njG7p6CSbCU#) machen?] 
+
+Natürlich ist es nicht notwendig, zu allem gleich seine Meinung zu äußern, und oft ist es definitiv sinnvoller, sich mal ein Bilder der Lage zu machen. Ich halte es jedoch für ebenso gefährlich, Konflikte schnell in die "zu kompliziert"-Lade zu schieben und mit diesem Argument zu ignorieren, wie es eben so oft passiert. 
+
+Das Gefühl, im Weltgeschehen immer mehr den Überblick zu verlieren, ist zwar (hoffentlich) eine emotionale Übertreibung, gleichzeitig aber angeblich symptomatisch für meine Generation.
+
+*Schweigen, weil die Welt immer [komplexer](https://www.ted.com/talks/david_christian_big_history) und die Zukunft immer ungewisser wird?*
+
+## Strange Times
+
+Besonders in den letzten Tagen (Ukraine, Nahostkonflikt, ISIS, Ferguson, …) passiert es mir immer öfter, dass ich beim Lesen meiner Twitter-Timeline (wohl meiner wichtigsten Nachrichtenquelle) an folgendes Zitat aus dem [*Zeit*-Artikel über Babyboomer](http://www.zeit.de/2013/17/demografie-babyboomer/komplettansicht) denken muss:
+
+<blockquote>Die Babyboomer wuchsen in einer heilen Welt auf. “Es gab damals nicht so irritierend viele Zielkonflikte wie heute”, sagt Mahrenholz. “Der Kalte Krieg war übersichtlich, und die Babyboomer wollen heute noch, dass ihre Welt übersichtlich bleibt. Auch deshalb glauben viele von ihnen nicht wirklich an den Klimawandel.”</blockquote>
+
+(Wobei ich definitiv nicht zustimme, dass die zweite Hälfte des letzten Jahrhunderts frei von diesen *irritierenden Konflikten* war. Ganz zu schweigen von der ersten Hälfte …)
+
+## No Future?
+
+Meine Generation darf also nicht nur den Klimawandel ausbaden, den uns die vorherigen Generationen eingebrockt haben, und den zu beseitigen die Babyboomer scheinbar nicht willens sind. Wir sind außerdem die [Generation Praktikum](https://de.wikipedia.org/wiki/Generation_Praktikum), für die 600€ im Monat trotz Matura und [fertigem Studium](http://www.falter.at/falter/2007/07/10/billig-willig-praktikant/) ganz normal sind (Ausnahmen bestätigen die Regel). Und Pension werden wir ebenso [keine bekommen](https://de.wikipedia.org/wiki/Generationenvertrag) wie viele von uns keine [(sicheren) Jobs](http://www.spiegel.de/thema/jugendarbeitslosigkeit/).
+
+Wenn man dann noch mitansieht, wie [wir alle Überwacht werden](https://de.wikipedia.org/wiki/Globale_%C3%9Cberwachungs-_und_Spionageaff%C3%A4re), wie viele Medien nur mehr Polizei-Aussendungen (oder schlimmer: [ISIS-Propaganda](http://www.vice.com/alps/tag/Islamischer+Staat)) verbreiten, wie sich [Milliardäre mal eben aus einem Prozess freikaufen](http://www.spiegel.de/wirtschaft/ecclestone-gericht-stellt-verfahren-gegen-100-millionen-dollar-ein-a-984510.html), [Demonstranten trotz Mangel an Beweisen 6 Monate in U-Haft festgehalten werden](http://prozess.report/josef/), [Lobbying-Budgets in die Milliarden gehen](https://www.opensecrets.org/lobby/), wir aufpassen müssen [nicht eines Tages in einem Polizeistaat aufzuwachen](http://www.theatlantic.com/national/archive/2011/11/turning-patrolmen-into-soldiers-how-did-we-let-this-happen/248828/) und [neben dem Mietpreisen auch die Immobilienspekulation Hochkonjunktur hat](http://orf.at/stories/2239715/), dann darf man sich nicht wundern, wenn Verschwörungstheorien im Vormarsch sind, wenn *Gleichheit* für viele immer mehr zur Utopie wird. Oder wenn manche die Probleme lieber [an der Wurzel](https://de.wiktionary.org/wiki/radikal) anpacken wollen, statt weiterhin <strike>Windmühlen</strike>Symptome zu bekämpfen.
+
+Doch bricht diese These in sich zusammen, wenn man sich erinnert, dass [*No Future*](https://de.wikipedia.org/wiki/No_Future) ein Slogan [aus den späten 70er Jahren](https://www.youtube.com/watch?v=BIlUvEOhFos) ist?
+
+[SNAFU?](https://en.wiktionary.org/wiki/SNAFU)
+
