@@ -82,7 +82,7 @@ Die Übersicht zu bewahren ist für mich heuer besonders wichtig, da ich leider 
 ## Tag 4: 30.12.
 
 * 11:30 [The rise and fall of Internet voting in Norway](https://events.ccc.de/congress/2014/Fahrplan/events/6213.html) *Evaluating a complex cryptographic implementation*
-* 12:45 [Why are computers so @#!*, and what can we do about it?](https://events.ccc.de/congress/2014/Fahrplan/events/6574.html) *about attempts to mix better engineering methods from a cocktail of empiricism and logic*
+* 12:45 [Why are computers so @#!, and what can we do about it?](https://events.ccc.de/congress/2014/Fahrplan/events/6574.html) *about attempts to mix better engineering methods from a cocktail of empiricism and logic*
 * 12:45 [Diamonds are a quantum computer’s best friend](https://events.ccc.de/congress/2014/Fahrplan/events/6157.html) *an entertaining “tour de force” starting with a brief introduction to the fascinating yet strange theories of quantum physics*
 * 14:00 [State of the Onion](https://events.ccc.de/congress/2014/Fahrplan/events/6251.html) *current state of the Tor network and community*
 * 14:00 [The Taste of Surveillance](https://events.ccc.de/congress/2014/Fahrplan/events/6383.html) *Stories and performative expressions of human-scale, personal effects of the modern surveillance apparatus on individuals*
