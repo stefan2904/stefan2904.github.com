@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title: 		Talks, Talks, Talks
-tags: 		[Tech, 30c3]
+tags: 		[Tech, 31c3]
 published: 	true
 ---
 
