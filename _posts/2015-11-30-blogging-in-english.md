@@ -12,7 +12,3 @@ Furthermore, some thoughts in my brain are mostly formed out of English words, d
 It's likely that the "target audience" of some thoughts speaks mostly German, though. So I am going to mix the language of this blog from time to time.
 
 We will see.
-
-<br>
-
-<small>(My English is far from perfect, so please bear with me. And feel free to point out any mistakes.)</small>
