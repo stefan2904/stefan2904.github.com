@@ -25,7 +25,7 @@ So what's next?
 
 All over the year, the group of people participating in our team grew, but changed a lot. From the beginning on, this group of people called themselves **LosFuzzys**. The group met on a irregular basis to participate in [some competitions](https://ctftime.org/team/8323), but had otherwise no forum or similar setting to discuss challenges & exchange knowledge.
 
-This started to change in the last months, and really got up to speed in the last weeks. Myself and [Mike](https://twitter.com/f0rki) started to better organize LosFuzzys and coordinate our efforts. In addition, we started systematically telling people about our team and organizing meetups.
+This started to change in the last months, and really got up to speed in the last weeks.  [Mike](https://twitter.com/f0rki) and myself started to better organize LosFuzzys and coordinate our efforts. In addition, we started systematically telling people about our team and organizing meetups.
 
 It was important to me to cover the topics of ethics and ethical hacking (we even have [a manifesto](https://losfuzzys.github.io/manifesto.html)!). In addition, it was (and is) very important to me to create a welcoming atmosphere and to welcome everyone interested. This also means kicking out those who don't respect this values if needed.
 
