@@ -11,6 +11,7 @@ Ever since I am involved into different "IT security" contexts, I regularly stum
 
 In a CTF, many teams from all over the world compete in interesting challenges against each other. Such challenges cover different information security topics such as reverse engineering, cryptography, binary exploitation, forensics and web security. The goal is to *capture flags*. Flags are small pieces of information, which are hidden somewhere in the challenge. They often look like this: *ctf{this_is_a_flag}*.
 
+<img style="float:right; width:40%; height:40%;margin:1em;" src="http://2904.cc/blogimg/losfuzzys/faust.jpg">
 There are mostly two different kinds of CTF. In the more common *Jeopardy* ones, teams have to solve challenges given and hosted by the organizers. In the far less common *attack-defence* ones, teams are given some services by the organizers and need to run (and defend) them on their own infrastructure, while at the same time attacking the services of other teams. I'll spare you the details, read more about CTF [at CTFtime](https://ctftime.org/ctf-wtf/).
 
 Ever since I know that CTF exists, I wanted to participate in one on my own. But I never knew where to start. It needed some teaching assistants of TUGraz' (very awesome) [*Security Aspects in Software Development*](https://www.iaik.tugraz.at/content/teaching/master_courses/sicherheitsaspekte_in_der_softwareentwicklung/) lecture to finally help me jump into the cold water.
@@ -19,6 +20,7 @@ So it happened last December that I found myself in a seminar room full of peopl
 
 ## LosFuzzys?
 
+<img style="float:right; width:30%; height:30%;margin:1em;" src="http://2904.cc/blogimg/losfuzzys/avatar.jpg">
 Fast forward to December 2015, about one year later. I got addicted and more or less successfully participated in a few more CTF over the year. I enjoyed most of them and learned a lot.
 
 So what's next?
@@ -42,7 +44,12 @@ It is thus our plan to continue organizing LosFuzzys as a team towards building 
 
 Where to start? Check out our homepage at [losfuzzys.github.io](https://losfuzzys.github.io/) and visit our [December meeting](https://gist.github.com/stefan2904/6a5c28a26e34666d508f#file-fuzzys_november-md).
 
+---
 
+*Update:* December turned out to be great, too!
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/FaustCTF?src=hash">#FaustCTF</a> 2015 is over! Place 6 for LosFuzzys! \o/ Also, one year LosFuzzys! Happy Birthday! <a href="https://t.co/5AUZjStzCW">https://t.co/5AUZjStzCW</a> <a href="https://t.co/vzdxtIqePz">pic.twitter.com/vzdxtIqePz</a></p>&mdash; LosFuzzys (@LosFuzzys) <a href="https://twitter.com/LosFuzzys/status/678010427134070784">December 19, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
